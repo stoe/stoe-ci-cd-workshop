@@ -1,5 +1,4 @@
-[![Circle CI Build Status](https://circleci.com/gh/githubteacher/ci-cd-workshop.svg?style=svg)](https://circleci.com/gh/githubteacher/ci-cd-workshop) [![Travis CI Build Status](https://travis-ci.org/githubteacher/ci-cd-workshop.svg?branch=master)](https://travis-ci.org/githubteacher/ci-cd-workshop)
-
+[![Circle CI Build Status](https://circleci.com/gh/stoe/stoe-ci-cd-workshop.svg?style=svg)](https://circleci.com/gh/stoe/stoe-ci-cd-workshop) [![Travis CI Build Status](https://travis-ci.org/stoe/stoe-ci-cd-workshop.svg?branch=master)](https://travis-ci.org/stoe/stoe-ci-cd-workshop)
 
 ### About
 
