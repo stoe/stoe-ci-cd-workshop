@@ -2,7 +2,7 @@
 
 ### About
 
-A [Jekyll](http://jekyllrb.com)-powered demo [blog](https://ci-cd-workshop.herokuapp.com).
+A [Jekyll](http://jekyllrb.com)-powered demo [blog](https://stoe-ci-cd-workshop.herokuapp.com/).
 
 
 #### A Note on Tooling
